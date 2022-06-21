@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking CURD test with steps","This will create a new booking ","SUCCESS","2022-06-06T23:17:56.808+01:00[Europe/London]","0.0","3.17"
+"Booking CURD test with steps","Verify that the booking added in to stack","SUCCESS","2022-06-06T23:17:59.996+01:00[Europe/London]","0.0","0.56"
+"Booking CURD test with steps","This will Updated created id","SUCCESS","2022-06-06T23:18:00.558+01:00[Europe/London]","0.0","1.16"
+"Booking CURD test with steps","This will Delate created id","SUCCESS","2022-06-06T23:18:01.722+01:00[Europe/London]","0.0","1.12"
